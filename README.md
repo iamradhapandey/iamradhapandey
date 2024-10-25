@@ -2,7 +2,7 @@
     <h1 align="center">Hi 👋, I'm Radha Pandey</h1>
 <h3 align="center">A passionate Frontend & React developer from India</h3>
 <!-- <img src="https://media.licdn.com/dms/image/D4D12AQH4mcQALwgZ7Q/article-cover_image-shrink_600_2000/0/1691989932071?e=2147483647&v=beta&t=uwm5lxFiqURXuzG_xnf9hrIr-_sojSaQ4ggruUAYsmU" alt=""> -->
-<img src="https://user-images.githubusercontent.com/86276393/196287962-eabc8dc8-73f4-4abc-a86d-abb5bb8d3ceb.gif" alt="">
+<img src="https://media1.tenor.com/m/YhA5nO9jiCkAAAAC/ika-musume.gif" alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamradhapandey&label=Profile%20views&color=0e75b6&style=flat" alt="iamradhapandey" /> </p>
 
