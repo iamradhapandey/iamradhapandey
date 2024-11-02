@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamradhapandey&label=Profile%20views&color=0e75b6&style=flat" alt="iamradhapandey" /> </p>
 
-- 💬 Ask me about js,js dom , HTML5, TailwindCSS , ReactJS**
+- 💬 Ask me about js,js dom , HTML5, TailwindCSS , ReactJS
 
 - 📫 How to reach me **Iamradhapandey@outlook.com**
 
