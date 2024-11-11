@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **radhapandeyssm37@gmail.com**
 
-- ⚡ Fun fact **When I'm not coding, I enjoy hiking, reading tech blogs, and experimenting with new recipes in the kitchen. I also have a knack for solving Rubik's cubes and can complete one in under a minute!..**
+- ⚡ Fun fact **When I'm not coding, I enjoy hiking, reading tech blogs, and experimenting with new recipes in the kitchen. I also have a knack for solving Rubik's cubes and can complete one in under a minute!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
